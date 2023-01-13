@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/moctader/Phitron/2.Introduction to programming c/w9 Introduction to recursion and file/Module 34 lab class 9/34-4 Detect Who Wins",
+      "program": "/Users/moctader/Phitron/2.Introduction to programming c/w9 Introduction to recursion and file/Module 34 lab class 9/34-4 Detect Who Wins/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
